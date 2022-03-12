@@ -23,7 +23,7 @@ Removing works similiarly with the addition. The only difference is that we need
 ![image](https://user-images.githubusercontent.com/79082114/158005409-42667a0c-9bae-46ee-94de-64eed7f02d5b.png)\
 So you can imagine the queue like circular queue\.\
 ![image](https://user-images.githubusercontent.com/79082114/158005343-e75c9dda-f8d8-4c90-810d-a284e14f9cd0.png)\
-***P.S***\
+***P.S.***\
 Also you need to prevent overflow of the queue and avoid the filling out the empty queue\
 **C++ implementation you can see in the files of repository!**
 ____
