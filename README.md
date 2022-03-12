@@ -13,7 +13,9 @@ In our case for an impementation a queue let's consider next model\:\
 Firstly, we need to add the element in the queue using the tail index because as filling the queue, the elements will be go on.
 ![image](https://user-images.githubusercontent.com/79082114/158004271-3ef836c8-0af2-416c-ad8a-7904e06c5253.png)\
 Further we need to increment the tail index.
-![image](https://user-images.githubusercontent.com/79082114/158004323-8f2ba3d5-6d43-4b5a-a452-0f699882d0c3.png)
+![image](https://user-images.githubusercontent.com/79082114/158004323-8f2ba3d5-6d43-4b5a-a452-0f699882d0c3.png)\
+When we will add the last element, top index will have an ARRAY_SIZE position\.\
+![image](https://user-images.githubusercontent.com/79082114/158004812-5adb72f4-1b2b-4af6-a9b9-65b9bbcc16e2.png)
 
 
 
