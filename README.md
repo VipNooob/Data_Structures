@@ -27,7 +27,10 @@ So you can imagine the queue like circular queue\.\
 Also you need to prevent overflow of the queue and avoid the getting data from the empty queue\
 **C++ implementation you can see in the files of repository!**
 ____
-
+**STACK**\
+Stack is a datastructure that following the LIFO (last input first output) conception\.\
+In order to understand the mechanics of stack, let's see the following example\:\
+Imagine that bullets are some data. So the last bullet inserted into the magazine will be shoot first\.\  
 
 
 
