@@ -17,10 +17,17 @@ Further we need to increment the tail index.
 When we will add the last element, tail index will have an ARRAY_SIZE position\.\
 ![image](https://user-images.githubusercontent.com/79082114/158004812-5adb72f4-1b2b-4af6-a9b9-65b9bbcc16e2.png)\
 Before next addition we have to return the tail index to ZERO. We did it in order to continue filling out the queue\.\
-![image](https://user-images.githubusercontent.com/79082114/158004901-432922de-fdde-48c7-b4f6-923e829d5d34.png)
+![image](https://user-images.githubusercontent.com/79082114/158004901-432922de-fdde-48c7-b4f6-923e829d5d34.png)\
 ***Removing the element***\
 Removing works similiarly with the addition. The only difference is that we need to move forward head index\.\
-![image](https://user-images.githubusercontent.com/79082114/158005162-e82e3273-5dbc-478d-a84e-cf8067bcc3af.png)
+![image](https://user-images.githubusercontent.com/79082114/158005162-e82e3273-5dbc-478d-a84e-cf8067bcc3af.png)\
+So you can imagine the queue like circular queue\.\
+![image](https://user-images.githubusercontent.com/79082114/158005249-53ef9bb6-8ce1-4c26-80bd-c67d3db7b10b.png)\
+![image](https://user-images.githubusercontent.com/79082114/158005275-31e0be65-b9d7-4548-a2ef-b1e5a74fe5c4.png)\
+**A C++ implementation you can see in the files of repository!**
+____
+
+
 
 
 
