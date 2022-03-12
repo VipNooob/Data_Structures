@@ -25,7 +25,7 @@ So you can imagine the queue like circular queue\.\
 ![image](https://user-images.githubusercontent.com/79082114/158005343-e75c9dda-f8d8-4c90-810d-a284e14f9cd0.png)\
 ***P.S***\
 Also you need to prevent overflow of the queue and avoid the filling out the empty queue\
-**A C++ implementation you can see in the files of repository!**
+**C++ implementation you can see in the files of repository!**
 ____
 
 
