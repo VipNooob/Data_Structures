@@ -6,7 +6,7 @@ So, a queue is a datastructure that following the FIFO (first input first output
 This conception implies that the first added element will be go out of the queue first, the second one will be second etc\.\
 In our case for an impementation a queue let's consider next model\:\
 1. We have a continuous finite memory (for example 5 memory cells), as you can guess we will use an array\:\
-![image](https://user-images.githubusercontent.com/79082114/158005466-0dd7cb4a-213b-4742-9a94-1556fd41c0cd.png)\
+![image](https://user-images.githubusercontent.com/79082114/158005478-df584d1c-686e-4279-8142-90ae160ce0fb.png)
 2. In the queue there are a head (top element) and a tail (rear element). When the queue is an empty, head and tail have the same index = 0\.
 ![image](https://user-images.githubusercontent.com/79082114/158004054-c04847c9-046a-46ca-813d-549b0ccb934d.png)\
 ***Addition of the element***\
