@@ -20,7 +20,7 @@ Before next addition we have to return the tail index to ZERO. We did it in orde
 ![image](https://user-images.githubusercontent.com/79082114/158004901-432922de-fdde-48c7-b4f6-923e829d5d34.png)\
 ***Removing the element***\
 Removing works similiarly with the addition. The only difference is that we need to move forward head index\.\
-![image](https://user-images.githubusercontent.com/79082114/158005162-e82e3273-5dbc-478d-a84e-cf8067bcc3af.png)\
+![image](https://user-images.githubusercontent.com/79082114/158005409-42667a0c-9bae-46ee-94de-64eed7f02d5b.png)\
 So you can imagine the queue like circular queue\.\
 ![image](https://user-images.githubusercontent.com/79082114/158005343-e75c9dda-f8d8-4c90-810d-a284e14f9cd0.png)\
 **A C++ implementation you can see in the files of repository!**
