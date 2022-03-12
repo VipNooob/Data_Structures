@@ -22,8 +22,7 @@ Before next addition we have to return the tail index to ZERO. We did it in orde
 Removing works similiarly with the addition. The only difference is that we need to move forward head index\.\
 ![image](https://user-images.githubusercontent.com/79082114/158005162-e82e3273-5dbc-478d-a84e-cf8067bcc3af.png)\
 So you can imagine the queue like circular queue\.\
-![image](https://user-images.githubusercontent.com/79082114/158005249-53ef9bb6-8ce1-4c26-80bd-c67d3db7b10b.png)\
-![image](https://user-images.githubusercontent.com/79082114/158005275-31e0be65-b9d7-4548-a2ef-b1e5a74fe5c4.png)\
+![image](https://user-images.githubusercontent.com/79082114/158005343-e75c9dda-f8d8-4c90-810d-a284e14f9cd0.png)\
 **A C++ implementation you can see in the files of repository!**
 ____
 
