@@ -16,8 +16,7 @@ Further we need to increment the tail index.
 ![image](https://user-images.githubusercontent.com/79082114/158004323-8f2ba3d5-6d43-4b5a-a452-0f699882d0c3.png)\
 When we will add the last element, tail index will have an ARRAY_SIZE position\.\
 ![image](https://user-images.githubusercontent.com/79082114/158004812-5adb72f4-1b2b-4af6-a9b9-65b9bbcc16e2.png)\
-In this step will be the most interesting things\.\
-After the tail index will be at the ARRAY_SIZE position, before next addition we have to return the tail index to ZERO\.\
+Before next addition we have to return the tail index to ZERO. We did it in order to continue filling out the queue\.\
 ![image](https://user-images.githubusercontent.com/79082114/158004901-432922de-fdde-48c7-b4f6-923e829d5d34.png)
 
 
